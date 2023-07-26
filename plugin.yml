@@ -1,0 +1,7 @@
+main: minealex.tannouncer.TAnnouncer
+version: 1.0
+name: TAnnouncer
+
+commands:
+  tannouncer:
+    description: Reload the plugin

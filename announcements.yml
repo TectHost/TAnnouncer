@@ -1,0 +1,5 @@
+# Configuración de anuncios
+announcement_interval: 10 # Intervalo de tiempo en segundos entre los anuncios
+announcement_text:
+  - "&aWelcome, %player%, to the server!"
+  - "&bWebsite: https://tect.host/"

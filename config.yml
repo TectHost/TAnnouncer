@@ -1,0 +1,6 @@
+Config:
+  announcements_enabled: true
+
+messages:
+  no_permission: "&cYou don't have permissions to execute this command."
+  reload_config: "&aConfig reloaded."
