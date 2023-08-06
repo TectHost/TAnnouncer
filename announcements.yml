@@ -1,5 +1,24 @@
-# Configuración de anuncios
-announcement_interval: 10 # Intervalo de tiempo en segundos entre los anuncios
+announcement_interval: 10
+announcements_enabled: true
+
 announcement_text:
   - "&aWelcome, %player%, to the server!"
   - "&bWebsite: https://tect.host/"
+
+titulo1:
+  text: "&a¡Bienvenido al servidor!"
+  fadeIn: 10
+  stay: 40
+  fadeOut: 10
+
+titulo2:
+  text: "&6Recuerda seguir las reglas."
+  fadeIn: 10
+  stay: 60
+  fadeOut: 20
+
+titulo3:
+  text: "&eVisita nuestro sitio web en www.example.com"
+  fadeIn: 15
+  stay: 50
+  fadeOut: 15
