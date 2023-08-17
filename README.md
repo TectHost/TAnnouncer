@@ -9,9 +9,11 @@ Simple auto broadcast plugin
 
 # Commands
 - /tannouncer reload
+- /tannouncer version
 
 # Permissions
 - tannouncer.reload
+- tannouncer.version
 
 # Dependencies
 - None
