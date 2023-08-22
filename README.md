@@ -6,6 +6,7 @@ Simple auto broadcast plugin
 - Placeholders
 - Customizable broadcast
 - Customizable time
+- PlaceholderAPI support
 
 # Commands
 - /tannouncer reload
@@ -16,4 +17,4 @@ Simple auto broadcast plugin
 - tannouncer.version
 
 # Dependencies
-- None
+- PlaceholderAPI
