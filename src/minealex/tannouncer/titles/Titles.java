@@ -18,7 +18,7 @@ public class Titles {
     }
 
     public static void sendTitle(Player player, FileConfiguration announcementsConfig, int titleNumber) {
-        String titlePath = "titulo" + titleNumber;
+        String titlePath = "title" + titleNumber;
         if (announcementsConfig.isConfigurationSection(titlePath)) {
             ConfigurationSection titleSection = announcementsConfig.getConfigurationSection(titlePath);
             String titleText = ChatColor.translateAlternateColorCodes('&', titleSection.getString("text"));

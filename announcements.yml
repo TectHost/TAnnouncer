@@ -5,20 +5,20 @@ announcement_text:
   - "&aWelcome, %player%, to the server!"
   - "&bWebsite: https://tect.host/"
 
-titulo1:
-  text: "&a¡Bienvenido al servidor!"
+title1:
+  text: "&aWelcome to the server!"
   fadeIn: 10
   stay: 40
   fadeOut: 10
 
-titulo2:
-  text: "&6Recuerda seguir las reglas."
+title2:
+  text: "&6Remember to follow the rules."
   fadeIn: 10
   stay: 60
   fadeOut: 20
 
-titulo3:
-  text: "&eVisita nuestro sitio web en www.example.com"
+title3:
+  text: "&eVisit our website at https://tect.host/"
   fadeIn: 15
   stay: 50
   fadeOut: 15
